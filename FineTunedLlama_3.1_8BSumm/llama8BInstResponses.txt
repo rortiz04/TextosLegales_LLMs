@@ -1,0 +1,368 @@
+**Sede:** 
+**Dependencia:** 
+**Autos:** 
+**Expediente n.°:** 7103025
+**Resolución:** Auto n.° 98
+**Fecha:** 27/05/2022
+**Juez:** MARCOS JUAREZ
+
+**Síntesis de la causa:**
+
+La parte actora solicita la conversión de la suma de pesos depositada como resultado de la subasta producida en autos, al tipo de cambio que resulte más justo y que no beneficie al deudor. Se propone tomar el dólar MEP o la suma convertida en pesos al cambio del día del efectivo pago, con más el 30%
+
+///
+6min
+La respuesta es: Sede: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto.
+Dependencia: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad
+
+///
+
+5min
+La respuesta es: Sede: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto.
+Dependencia: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto.
+Autos: Nº 98 del 27/05/2022.
+Resolución: Auto n.° 98 del 27/05/2022.
+Fecha: 27/05/2022.
+Juez: MARCOS JUAREZ. Expediente SAC 7103025 - RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION. Expediente SAC 7103025 - Pág. 1 / 5 - N
+
+///
+10min
+**Sede**: Rio Cuarto
+**Dependencia**: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia
+**Vistos**: Estos autos caratulados “RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION”,(Expte. Nº 7103025
+
+///
+15min
+**Sede**: Rio Cuarto
+**Dependencia**: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto
+**Vistos**: Estos autos caratulados “RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION”,(Expte. Nº 7103025), de los que 
+resulta que: I.- Con fecha 18/03/2022, el Dr. Matías José PRATTI comparece y solicita se libre orden de pago en concepto de capital a favor de su poderdante, 
+Sr. ROBERTO RAUL RUFFINO, D.N.I. nº 16.515.479, por la suma de DÓLARES ESTADOUNIDENSES VEINT
+
+
+///
+5 min
+**Sede**: Rio Cuarto
+**Dependencia**: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto
+**Vistos**: Estos autos caratulados “RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION”,(Expte. Nº 7103025), de los que 
+resulta que: I.- Con fecha 18/03/2022, el Dr. Matías José PRATTI comparece y solicita se libre orden de pago en concepto de capital a favor de su poderdante, 
+Sr. ROBERTO RAUL RUFFINO, D.N.I. nº 16.515.479, por la suma de DÓLARES ESTADOUNIDENSES VEINT
+
+//// 13-10
+7min
+Sede: Rio Cuarto
+Dependencia: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto
+Resolución: Nº 98
+JUEZ/A: TONELLI Jose Maria
+Fecha: 27/05/2022
+
+///
+3min ESTA CASI PERFECTO, PROBLEMAS CON LA SEDE
+Sede: Rio Cuarto
+Dependencia: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto
+Resolución: 98
+JUEZ/A: TONELLI Jose Maria
+Fecha: 27/05/2022
+Vistos: "RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION" (Expte. Nº 7103025)
+
+mismo prompt y no me gusto nada el resultado
+
+5min
+425
+Expediente SAC 7103025 - Pág. 5 / 5 - Nº Res. 98
+
+**Respuesta**
+
+*   *Sede*: Juzgado de Primera Instancia y Tercera Nominación- Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto.
+*   *Dependencia*: Secretaría Quinta en lo Civil, Comercial y Familia de la Ciudad de Rio Cuarto.
+*   *Resolución*: La resolución establece que el monto por el que prosperó la ejecución en concepto de capital e interes
+
+402
+5min
+Sede: *No disponible*
+Dependencia: *No disponible*
+Resolución: *No disponible*
+JUEZ/A: TONELLI Jose Maria
+Fecha: 27/05/2022
+Vistos: "RUFFINO, ROBERTO RAUL C/ MATALIA, JAVIER ALEJANDRO - CUERPO DE EJECUCION" Expediente Nº 7103025.  ###
+
+The final answer is: There is no final answer as this is a text extraction task. However, I will provide the extracted information in the requested format:
+
+* Sede
+
+/// pruebas con one/shot few/shots
+
+3min328 era de esperarse, le pase el ejemplo del texto que le pedi los datos (A98), lo hizo bien, menos mal...
+1. Sede: Marcos Juárez
+2. Dependencia: Juzgado de Primera Nominación en lo Civil, Comercial, Conciliación y Familia
+3. Resolución: Auto n.° 98 
+4. Juez/a: José María Tonelli 
+5. Fecha: 27/5/2022 
+6. Vistos:  “Ruffino, Roberto Raúl c/ Matalia, Javier Alejandro - Cuerpo de ejecución”,
+expediente n.° 7103025 
+
+Respuesta:
+1. Sede:
+
+///
+3min aca mande dos ejemplos, Two/shots, e igual respondio bien, voy  a probar con ahora pasando el textoA8
+1. Sede: Marcos Juárez
+2. Dependencia: Juzgado de Primera Nominación en lo Civil, Comercial, Conciliación y Familia
+3. Resolución: Auto n.° 98
+4. Juez/a: José María Tonelli
+5. Fecha: 27/5/2022
+6. Vistos: “Ruffino, Roberto Raúl c/ Matalia, Javier Alejandro - Cuerpo de ejecución”, expediente n.° 7103025. 
+
+Nota: El texto
+
+/// respondio bien, sigue siendo un texto que esta como ejemplo, voy a probar uno mas que este en un ejemplo,
+y luego el 4to texto ver como responde con los ejemplos de los otros 3
+
+335
+1. Sede: Ciudad de Bell Ville
+2. Dependencia: Cámara de Apelaciones en lo Civil, Comercial, Trabajo y Familia
+3. Resolución: Auto n.° 8
+4. Juez/a: Damian Esteban Abad, José María Gonella y Juan Pablo Miguel
+5. Fecha: 8/2/2022
+6. Vistos: "Vieyra, Alberto Fernando c/ Albera, Miguel y otro - Ejecutivo”, expediente n.° 6363658
+
+Respuesta
+
+/// tengo problemas con el largo en este caso, quizas ampliar el min_length, no era el min era el max
+343
+1. Sede: Córdoba
+2. Dependencia: Tribunal Superior de Justicia (Sala Civil y Comercial)
+3. Autos: "Ambrosino, Susana María Esther c/ Sanatorio Allende S.A.-OrdinarioDaños y Perjuicios-Mala Praxis-Cuerpo de Copia-Recurso de Casación”,
+expediente n.º 9480654
+4. Resolución: Auto n.° 63
+5. Juez/a: María Marta Cáceres de Bollati, Domingo Juan Ses
+
+/// ahora si, aumente el max_length y entro, o sea falto un totken literalmente
+393
+1. Sede: Córdoba
+2. Dependencia: Tribunal Superior de Justicia (Sala Civil y Comercial)
+3. Autos: "Ambrosino, Susana María Esther c/ Sanatorio Allende S.A.-OrdinarioDaños y Perjuicios-Mala Praxis-Cuerpo de Copia-Recurso de Casación”,
+expediente n.º 9480654
+4. Resolución: Auto n.° 63
+
+
+/// Prueba dificil, le voy a mandar un texto textA11, que no esta como ejemplo a ver que tal
+
+431
+1. Sede: Río Cuarto
+2. Dependencia: Cámara de Apelaciones en lo Civil, Comercial, Trabajo y Familia
+3. Autos: “INCIDENTE DE INCLUSION DE BIEN EN AUTOS: COSTA, ROBERTO ANIBAL –DECLARATORIA DE HEREDEROS”, Expte. N° 2987178
+4. Resolución: Auto n.° 11
+5. Juez/a: Sandra Eleonora Tibaldi, Mariana Andrea Pavon, Jorge Jose Aita Tagle
+6. Fecha: 11/02/2022
+
+Nota: La respuesta se basa en la información proporcionada en el texto y puede no
+
+Esto me dio el prompt, los datos de abajo son los originales
+
+DATOS DE LA CAUSA
+Sede: Ciudad de Rio Cuarto
+Dependencia: Cámara de Apelaciones Civil, Comercial y Contencioso Administrativo
+de Primera Nominación
+Autos: "Incidente de inclusión de bien en: Costa, Roberto Aníbal- Declaratoria de
+herederos, expediente n.° 2987178
+Resolución: Auto n.° 11
+Fecha: 11/2/2022
+Jueces: Sandra Eleonora Tibaldi, Mariana Andrea Pavón y Jorge José Aita Tagle
+
+salvo un pequeno detalle con la dependencia es
+TREMENDO, VOY A PRROBAR CON MAS, ahora con un texto mas grande, textoA2
+
+///22min 
+settings
+inputs_metadata = tokenizer(f'{prompt1}:{textoA98}', return_tensors="pt")
+# Extraccion de los metadatos
+metadata_ids = model.generate(inputs_metadata['input_ids'], 
+                             attention_mask=inputs_metadata['attention_mask'],
+                             pad_token_id=tokenizer.eos_token_id, 
+                             max_new_tokens=150, 
+                             min_new_tokens=60, 
+                             length_penalty=2.0,
+                             num_beams=2)
+# Decodificar el resumen generado
+metadata = tokenizer.decode(metadata_ids[0], skip_special_tokens=True)
+
+464
+La respuesta final es:
+
+Sede: Córdoba
+Dependencia: Juzgado de Primera Nominación en lo Civil, Comercial, Conciliación y Familia
+Autos: “S., S. V. D. H. C/ - BANCO DE LA PROVINCIA DE CÓRDOBA - Y OTROS - ABREVIADO”
+Resolución: Auto n.° 2
+Juez/a: Liksenberg, Mariana Andrea
+Fecha: 09/02/2022
+
+Nota: La respuesta final se basa en el texto proporcionado y puede no ser exactamente igual a la respuesta final real, ya que la respuesta final real puede variar dependiendo
+
+los datos originales son los de abajo, los de arriba son los prompteados
+
+DATOS DE LA CAUSA
+Sede: Ciudad de Córdoba
+Dependencia: Juzgado de Primera Instancia Civil y Comercial de Cuadragésima
+Tercera Nominación.
+Autos: “S., S. V. D. H. c/ Banco de la Provincia de Córdoba y otros – Abreviado”,
+Resolución: Sentencia n.° 2.
+Fecha: 9/2/2022
+Jueza: Mariana Liksenberg 
+
+bien, bien, bien, otra vez las unicas cosas distintas son en la Dependencia, quiza agregar mas "shots"?
+por ahroa voy a dejar como esta la extraccion de metadata y voy a trabaja con la generacion de la sintesis
+
+13-10 Sintesis de la causa
+
+
+///8min 
+settings
+inputs_sintesis = tokenizer(f'{prompt2}:{textoA98}', return_tensors="pt")
+# Generacion de la sintesis
+sintesis_ids = model.generate(inputs_sintesis['input_ids'], 
+                             attention_mask=inputs_sintesis['attention_mask'],
+                             pad_token_id=tokenizer.eos_token_id, 
+                             max_new_tokens=200, 
+                             min_new_tokens=40, 
+                             length_penalty=2.0, 
+                             temperature=0.7,
+                             no_repeat_ngram_size=2,
+                             num_beams=4)
+# Decodificar el resumen generado
+sintesis = tokenizer.decode(sintesis_ids[0], skip_special_tokens=True)
+
+3 ejemplos "buenos"
+
+814
+**Resumen:**
+
+La causa se refiere al proceso de cobros particulares entre Ruffino, Roberto Raúl y Matalia, Javier Alejandro. Se trata de convertir una suma en Pesos Argentinos a Dolar Estadouniense, debido a que inicialmente se acordó pagar con billetes de dolar. Sin embargo se encontraron dificultades para obtener los mismos. Por lo tanto se debe utilizar el tipo cambio más adecuado, en este caso el "dolar MEP", que es un mercado electrónico donde se puede comprar y vender tìtulos de tesorería. Este valor es conocido públicamente a través de diferentes medios periodísticos y es transparente. Además, este valor no tiene impuestos adicionales como ocurre con otros tipos de divisas.
+
+La corte establece que las sumas de dinero deben ser convertidas según el precio del mercado del "Dollar MEP" al momento
+
+742
+Por lo tanto, te propongo lo siguiente:
+
+**Resumen del caso:**
+
+En un proceso de cobros particulares, Roberto Raúl Ruffino, demandó a Javier Alejandro Matalia, solicitando la convocatoria a pago del capital adeudado, en forma de orden judicial. Señaló, entre otros, los siguientes hechos:
+*   La suma a cobrar se encontraba en divisas, específicamente en U$S27,037.08, debiendo ser convertidas a Pesos Argentinos para poder ser cobradas. 
+*  La parte solicitante propuso la utilización del "DÓLAR M.E.P." (MERCADO ELECTRÓNICO DE PAGOS) para realizar el cálculo del cambio, argumentando que esta opción es la que mejor se ajusta al contexto actual del país, teniendo en consideración las dificultades que enfrentan los ciudadanos para acceder
+
+8 min 820 
+**Resumen:**
+
+La causa se refiere al proceso de cobros particulares entre Ruffino, Roberto Raúl y Matalia, Javier Alejandro. Se trata de convertir una suma en Pesos Argentinos a Dolar Estadouniense, debido a que inicialmente se acordó pagar con billetes de dolar. Sin embargo se encontraron dificultades para obtener los mismos. Por lo tanto se debe utilizar el tipo cambio más adecuado, en este caso el "dolar MEP", que es un mercado electrónico donde se puede comprar y vender tìtulos de tesorería. Este valor es conocido públicamente a través de diferentes medios periodísticos y es transparente. Además, este valor no tiene impuestos adicionales como ocurre con otros tipos de divisas.
+
+Se establece que a partir de ahora, los montos por cobrar deben ser convertidos a esta nueva división utilizando el valor prom
+
+/// Cambio de texto, voy a textoA8, mismas settings de arriba, cambie el texto
+
+594 12 mins
+**RESUMEN DEL CASO**
+
+El caso se refiere a una disputa entre dos partes: la Srta. LILIANA ROSA ALBERA, quien actúa en calidad de HEREDERA DEL DEMANDADO FALLECIDO, representada legalmente POR EL DR. JORGE LUÍS FIOLEl demandante, Sr. ALEJANDRO FERDINAND VÍEIRA.
+
+La causa se originó en un JUICIO EJECTIVO, donde se intentó RECHAZAR EL INCIDENTE DE PERENCIÓN DE INSTANCIA. La corte de APPELASIONES declaro INADMISIBLE Y MAL CONCEDIDO EL RECUERDO DE APALACIÓN interpuesta por LA SRA. ALBAERA.
+
+El tribunal consideró QUE LA RESOLUCIÓN RECAÍDA EN EL MARCO DE UNA JORNADA DE JUEGO NO RESULTA APELLABLE
+
+max_new_tokens=200 voy a pasar a 300 me parece, prurbo uno mas... dio lo mismo
+
+/// texto A63, mismas settings de arriba
+
+685 9 min
+La causa fue resuelta por mayoría de votos.
+
+El Tribunal Superior de Justicia, Sala Civil, Comercio e Minería, resuelve:
+
+HACER LUGAR al Recurso Casación interpuesto por Sra. Susana M. E. Ambro-
+sino en representación propia y de su hija menor de edad, contra el “Auto Nro.
+2” de F. de Febrero del año dos mil veintiuno, emitido por “La Cámaras de Ape-
+laciones del Tribunal Contencioso Administrativo de Córboba”, en virtud del cual
+se reguló los Honorarios Profesionales de Abogados y Procuradores de ambas par-
+tes, de conformidad con lo establecido en las normas legales y reglamentarias
+pertinentes.
+
+Se anula el mencionado Auto y se reenvía el Expediente al Tribunal que lo
+dictó
+
+669 9min
+La causa fue resuelta por mayoría de votos.
+
+El Tribunal Superior de Justicia, Sala Civil, Comercio e Minería, resuelve:
+
+HACER LUGAR al Recurso Casación interpuesto por Sra. Susana M. E. Ambro-
+sino en representación propia y de su hija menor de edad, contra el “Auto Nro.
+2” de F. de Febrero del año dos mil veintiuno, emitido por “La Cámaras de Ape-
+laciones del Tribunal Contencioso Administrativo de Córboba”, en virtud del cual
+se reguló los Honorarios Profesionales de Abogados y/o Procuradores de ambas
+Partes.
+
+Se anula el mencionado Auto y se ordena su remisión al Tribunal que lo emitió
+para su nueva consideración.
+
+No se impone Costas.
+
+Fdo. María Mª Cacer
+
+/// texto textA11
+
+791 11min
+Resoluciones de Cámaras Civiles y Contenciosas Administrativas de todo el territorio nacional.
+
+Resumen:
+
+La causa se refería a una disputa entre dos hermanas (Daniela y Alicia) por una propiedad que perteneció al padre de ambas, Roberto, quien falleció dejando una herencia a sus hijos. Las dos mujeres se disputaban la propiedad de este bien, con Alicia alegando que ella era la verdadera propietaria, mientras que su hermana afirmaba lo contrario.
+
+La corte decidió a favor de Alicia, declarando a Roberto como dueño del predio y ordenando incluirlo como parte de sus herencias. También se le impusieron a Alicia los gastos del proceso.
+
+En este sentido, podemos concluir que:
+
+*   La causa fue un proceso judicial que involucró a varias personas, incluidas la viuda de Roberto (Alicia) y
+
+/// Le mande el texto pesado textoA2 
+
+895 69min
+**RESUMEN DEL CASO**
+
+El caso trata sobre una mujer, S.V.D.H.S., que acudió ante un tribunal de primera instancia para reclamar contra un banco por supuestas deudas que ella afirmaba no tener. Según su testimonio, había perdido su bolso y todas sus credenciales de viaje, así como su dinero y una carta de seguro de salud. Después de realizar una investigación, descubrió que varias personas utilizaban su información personal para comprar productos en diferentes tiendas y supermercados.
+
+La mujer afirmó haber presentado varias quejas al banco sobre los problemas que enfrentaba debido al uso fraudulento de ella misma y haber intentado resolver el asunto con ellos de varias maneras. Pero, según ella, nunca obtuvo una explicación o respuesta de por qué no había podido resolver su problema.
+
+El banco argumentó inicialmente que era la mujer quien había firmado las facturas y había incurrido
+
+/// todo junto metadatos y sintesis
+
+456 12 min
+
+1. Sede: Marcos Juárez
+2. Dependencia: Juzgado de Primera Nominación en lo Civil, Comercial, Conciliación y Familia
+3. Autos: “Ruffino, Roberto Raúl c/ Matalia, Javier Alejandro - Cuerpo de ejecución”, expediente n.° 7103025
+4. Resolución: Auto n.° 98
+5. Juez/a: José María Tonelli
+6. Fecha: 27/5/2022
+
+Nota: La respuesta se basa en la información proporcionada en el texto y no requiere realizar cálculos adicionales. 
+
+La respuesta final es: 
+
+1. Sede
+811
+Resumen:
+La causa versó sobre la petición del demandante para convertir una suma en Pesos Argentinos, proveniente de subastas realizadas en una causa de cobros particulares, en Moneda Extranjera ($US). El Juez consideró adecuado tomar como referencia la Cotización Oficial del Dolar MEP, debido a que esta es la que refleja con mayor fidelidad el precio real del dolar, teniendo en consideración la actual situación económica del país y la existencia de impuestos que gravan el cambio de divisas. Asimismo, estableció que para efectuar el cálculo, debían considerarse los promedios de compradores y vendedores del MEP. Finalmente, decidió no hacer cargo a ninguna parte los costos del proceso.
+
+Nota: La causa se encuentra relacionada con un proceso de Cobros Particulares, específicamente con una ejecutoria en
+
+otro resumen, agregue skip_special_tokens=True a la hora de decodificar
+
+784 12 min
+Resumen:
+La causa versó sobre la petición del demandante para convertir una suma en Pesos Argentinos, proveniente de subastas realizadas en una causa de cobros particulares, en Moneda Extranjera ($US). El Juez consideró adecuado tomar como referencia la Cotización Oficial del Dolar MEP, debido a que esta es la que refleja con mayor fidelidad el precio real del dolar, teniendo en consideración la actual situación económica del país y la existencia de impuestos que gravan el cambio de divisas. Asimismo, estableció que para efectuar el cálculo, debían considerarse los promedios de compradores y vendedores del MEP. Finalmente, decidió no hacer cargo a ninguna parte los costos generados por esta causa.  
+
+Espero te sea de ayuda. Si necesitas algo más no dudes en preguntar.  
+
+
+
+

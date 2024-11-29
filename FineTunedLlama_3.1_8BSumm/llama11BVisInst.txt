@@ -1,0 +1,97 @@
+/// Voy a correr el siguiente experimento
+
+Settings:
+inputs_metadata1 = tokenizer(f'{prompt1}:{TEXTO}', return_tensors="pt")
+# Extraccion de los metadatos
+metadata_ids1 = model.generate(inputs_metadata1['input_ids'], 
+                             attention_mask=inputs_metadata1['attention_mask'],
+                             pad_token_id=tokenizer.eos_token_id, 
+                             max_new_tokens=150, 
+                             min_new_tokens=40, 
+                             length_penalty=2.0,
+                             num_beams=2)
+
+inputs_sintesis1 = tokenizer(f'{prompt2}:{TEXTO}', return_tensors="pt")
+# Generacion de la sintesis
+sintesis_ids1 = model.generate(inputs_sintesis1['input_ids'], 
+                             attention_mask=inputs_sintesis1['attention_mask'],
+                             pad_token_id=tokenizer.eos_token_id, 
+                             max_new_tokens=200, 
+                             min_new_tokens=40, 
+                             length_penalty=2.0, 
+                             temperature=0.7,
+                             no_repeat_ngram_size=2,
+                             num_beams=4
+                             )
+
+Usando los textos textoA98 textoA8 textoA63 y textoA11, 
+textoA98 textoA8 textoA63 estan como ejemplos dentro del prompt (3Shot)
+
+328 12min
+1. Sede: Marcos Juárez
+2. Dependencia: Juzgado de Primera Nominación en lo Civil, Comercial, Conciliación y Familia
+3. Autos: “Ruffino, Roberto Raúl c/ Matalia, Javier Alejandro - Cuerpo de ejecución”,
+expediente n.° 7103025 
+4. Resolución: Auto n.° 98 
+5. Juez/a: José María Tonelli 
+6. Fecha: 27/5/2022  Exrtaer los siguientes
+768
+Resumen:
+El Juez Marcos Juárez resuelve un conflicto entre Ruffino, Roberto Raul y Matalia, Javier Alejandro, en relación con la cantidad a ser abonada como pago por una deudas de $27,037.08. El demandante propuso la utilización del Dóla MEP para realizar el cálculo del pago debido a que consideraba que esta era la mejor forma de calcular el valor real del dinero en una economía con altos niveles de inflación y devaluación. Por lo tanto, estableció que para calcular la cuantía a pagar se debería utilizar el precio de compra o venta del dolar MEP, dependiendo de si el dinero es recibido o pagado, respectivamente. Finalmente, decidió no cobrarle a ninguno de ellos los costos del proceso. 
+
+Espero haberte ayudado. Si necesitas algo más no dudes en preguntar. ¡H
+
+339 20min
+1. Sede: Bell Ville
+2. Dependencia: Cámara de Apelaciones en lo Civil, Comercial, Trabajo y Familia
+3. Autos: “Vieyra, Alberto Fernando c/ Albera, Miguel y otro - Ejecutivo”, expediente n.° 6363658
+4. Resolución: Auto n.° 8
+5. Juez/a: Damian Esteban Abad, José María Gonella y Juan Pablo Miguel
+6. Fecha: 8 de febrero de 2022. 
+
+Respuesta:
+816
+**RESUMEN**
+
+La causa se refiere a una disputa laboral entre la empresa ALBÉRICA S.R.L. y sus empleados, donde se discute el pago de salarios y beneficios. La empresa había solicitado la declaratoria de incumplimiento del convenio colectivo de trabajo, pero el trabajador, Alberto Fernández, había impugnado esta decisión. El tribunal había dictado un auto que desestimaba la demanda del empleador y ordenaba al mismo que pagara las sumas adeudadas al empleado, más los intereses correspondientes. Sin embargo, este auto había sido recurrido por los empleadores, quienes argumentaban que había habido falta de tramitación adecuada del asunto.
+
+La cámara civil y comercial de segunda instancia revisó el caso y concluyó que debía declararse la inaplicabilidad del principio de irretroactividad en este caso específico
+
+
+343 18min
+1. Sede: Córdoba
+2. Dependencia: Tribunal Superior de Justicia (Sala Civil y Comercial)
+3. Autos: “Ambrosino, Susana María Esther c/ Sanatorio Allende S.A.-OrdinarioDaños y Perjuicios-Mala Praxis-Cuerpo de Copia-Recurso de Casación”,
+expediente n.º 9480654
+4. Resolución: Auto n.° 63
+5. Juez/a: María Marta Cáceres de Bollati, Domingo Juan Sesin y Luis Eugenio Angulo Martin
+6. Fecha: 26/4/2022
+760
+Resumen:
+
+La Sala Civil del Tribunal Superior de Justicia anula un auto de primera instancia que ordenó a un sanatorio pagar a una ex empleada $ 250,000 por daños y perjuicios por mala praxis. La decisión fue recurrida por ambas partes, pero la Sala decidió en última instancia a favor del sanitorio. Sin embargo, un tribunal superior de justicia encontró un error de procedimiento y anulo el fallo.
+
+El error fue cometido al incluir un interés no solicitado sobre el rublo de "daños morales". La Sala considero que este error invalido el proceso y ordeno su reanudación.
+
+La resolucion fue emitida por tres vocales del tribunal: Caceres Maria, Sesin Juan y Angulo Martin Luis. Fue firmada y protocolizada el 27 de Abril del año 22. 
+
+La causa fue reenviada al
+
+
+401 textoA11 20 min
+1. Sede: Río Cuarto
+2. Dependencia: Cámara de Apelaciones en lo Civil, Comercial, Conciliación y Familia
+3. Autos: “INCIDENTE DE INCLUSION DE BIEN EN AUTOS: COSTA, ROBERTO ANIBAL –DECLARATORIA DE HEREDEROS”, Expte. N° 2987178
+4. Resolución: Auto n.° 11
+5. Juez/a: Sandra Eleonora Tibaldi, Mariana Andrea Pavon, Jorge Jose Aita Tagle
+6. Fecha: 11/02/2022
+
+Respuesta:
+
+1. Sede: Río Cuarto
+2. Dependencia
+796
+Resumen: 
+La causa se refería a una disputa entre dos personas, una de ellas era la viuda del fallecido, quien reclamaba la propiedad de unos terrenos que habían sido comprados en vida del esposo. 
+El tribunal de primer grado decidió incluir el 100% del valor de estos terremos en las cuentas de herencia, argumentando que según la legislación vigente, todos los activos obtenidos durante una relación conyugal deben ser compartidos a partes iguales entre las dos partes, independientemente de quien los haya obtenido o pagado.
+La parte contraria, representada por una abogada (Alicia Ines Martinez), recurrió ante el tribunal superior (Cámara Apeal Civil Com Contencioso), alegando injusticia y pidiendo que solo se incluya la mitad del monto total, basada en una supuesta compra realizada antes

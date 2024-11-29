@@ -52,15 +52,6 @@ python main.py
 # - temperature: Controla la diversidad de la generación.
 # - min_new_tokens: Número mínimo de tokens generados.
 
-## Estructura del Proyecto
-
-├── data/
-│   ├── input/           # Textos legales en formato .txt
-│   └── output/          # Resultados generados (JSONL)
-├── main.py              # Código principal
-├── README.md            # Documentación
-└── requirements.txt     # Lista de dependencias
-
 ## Resultados
 ## Los resultados se guardan en formato JSONL y contienen:
 

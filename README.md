@@ -51,8 +51,13 @@ Este enfoque iterativo y basado en decisiones estratégicas fue clave para logra
 - **[Modelo Llama-3.2-11B-Vision-Instruct](https://github.com/facebookresearch/llama)**: Modelo preentrenado especializado.
 
 ## Feedback e Integración de Sugerencias
-- **Comentarios Recibidos:** Resume las devoluciones de los otros dos grupos.
-- **Implementación de Sugerencias:** Explica qué sugerencias se integraron y cuáles no, justificando estas decisiones.
+
+- **Comentarios Recibidos:**  
+  Uno de los puntos más destacados en el feedback de nuestros compañeros de materia fue la preocupación sobre cómo determinar la calidad de los resúmenes generados. Las preguntas principales giraban en torno a las métricas utilizadas, los métodos de evaluación y los criterios para definir si un resumen es efectivo.
+
+- **Implementación de Sugerencias:**  
+  Para abordar estas inquietudes, nos contactamos con la Dra. Valeria Sola, del Poder Judicial de Córdoba, con el objetivo de someter los resúmenes generados por nuestro modelo a una evaluación experta. Los resúmenes seran revisados por abogados especializados, quienes evaluaran su calidad en diferentes aspectos, como precisión, claridad y utilidad en el contexto judicial.
+
 
 ## Metodología
 - **Preprocesamiento:** Detalla cómo se procesaron los datos de entrada.

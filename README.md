@@ -108,7 +108,34 @@ pip install transformers torch tqdm
 ```
 
 ## Uso
-Instrucciones paso a paso para replicar o ejecutar el proyecto.
+
+Sigue los pasos a continuación para configurar y ejecutar el proyecto:
+
+### Clonar el Repositorio
+Clona este repositorio en tu máquina local y accede al directorio del proyecto:
+```bash
+git clone https://github.com/tuusuario/tu-repositorio.git
+cd tu-repositorio
+```
+
+### Configurar el Modelo
+El proyecto utiliza el modelo preentrenado **meta-llama/Llama-3.2-11B-Vision-Instruct**. Asegúrate de tener acceso al modelo desde Hugging Face en el siguiente enlace:  
+- [Llama-3.2-11B-Vision-Instruct en Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct)
+
+### Preparar los Datos
+Coloca los textos legales en formato `.txt` dentro de la carpeta `data/input`. Asegúrate de que estén preprocesados correctamente para su análisis.
+
+### Ejecutar el Script Principal
+Para realizar las tareas de extracción de metadatos y generación de síntesis, ejecuta el siguiente comando:
+```bash
+python main.py
+```
+
+###Personalizar configuraciones (opcional)
+Los parámetros configurables incluyen:
+- **max_new_tokens**: Número máximo de tokens generados.
+- **temperature**: Controla la diversidad de la generación.
+- **min_new_tokens**: Número mínimo de tokens generados.
 
 ## Referencias
 Incluye todas las citas y referencias bibliográficas usadas.

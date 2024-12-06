@@ -6,8 +6,10 @@ En el Boletín Judicial de los Tribunales Provinciales de Córdoba, un equipo li
 Este proceso manual es altamente demandante y consume tiempo que los abogados podrían dedicar a tareas más interpretativas. Este proyecto propone una herramienta automática que genere textos preliminares, permitiendo a los abogados centrarse en la validación, profundización y edición de los documentos generados, optimizando su esfuerzo y asegurando el cumplimiento de los estándares establecidos.
 
 ## Hipótesis y Objetivos Iniciales
-- **Hipótesis:** Especifica la hipótesis formulada antes de iniciar el trabajo.
-- **Objetivos Iniciales:** Define los objetivos específicos del proyecto y cómo se relacionan con la hipótesis planteada.
+
+La **hipótesis** sobre la que trabajamos desde el principio fue que podríamos generar **resúmenes útiles** para los abogados, tales que les ahorren una cantidad considerable de tiempo, solo usando **prompt engineering**, sin la necesidad de **fine-tunear** algún modelo.
+
+
 
 ## Resultados Finales
 - Breve resumen de los resultados obtenidos.

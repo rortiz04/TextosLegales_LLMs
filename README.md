@@ -24,13 +24,13 @@ El modelo demostró un desempeño excelente en las tareas de extracción de meta
 
 El desarrollo de este proyecto implicó un proceso iterativo de aprendizaje y experimentación con diversos entornos y modelos hasta alcanzar la solución final. A continuación, se detalla esta trayectoria.
 
-### Etapa Inicial: Familiarización con los Modelos
+### Familiarización con los Modelos
 En una primera instancia, se utilizó la plataforma **Google Colab** para comprender el manejo de modelos de lenguaje. Durante esta etapa inicial, el enfoque estuvo en:
 - Cargar y utilizar modelos preentrenados.
 - Experimentar con bibliotecas especializadas como **Transformers**, **Accelerate** y **Torch**.
 Aprovechando los 15 GB de GPU de la versión gratuita de Colab, fue posible realizar pruebas básicas y obtener los primeros resultados.
 
-### Etapa Intermedia: Acceso a Recursos de Alto Desempeño
+### Acceso a Recursos de Alto Desempeño
 En la segunda fase, se accedió a servidores avanzados en San Francisco, Córdoba, equipados con dos **NVIDIA A30** de 25 GB de GPU cada una. Este entorno permitió:
 - Cargar un modelo **LLaMA de 8B parámetros**.
 - Obtener resultados prometedores y eficientes en la extracción de metadatos y la generación de síntesis.

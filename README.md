@@ -131,7 +131,7 @@ Para realizar las tareas de extracción de metadatos y generación de síntesis,
 python main.py
 ```
 
-###Personalizar configuraciones (opcional)
+### Personalizar configuraciones (opcional)
 Los parámetros configurables incluyen:
 - **max_new_tokens**: Número máximo de tokens generados.
 - **temperature**: Controla la diversidad de la generación.

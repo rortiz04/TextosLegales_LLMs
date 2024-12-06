@@ -12,8 +12,13 @@ La **hipótesis** sobre la que trabajamos desde el principio fue que podríamos 
 
 
 ## Resultados Finales
-- Breve resumen de los resultados obtenidos.
-- Relación entre la hipótesis y los objetivos iniciales con el estado final alcanzado. ¿Se cumplió lo esperado?
+
+Los resultados obtenidos con el modelo **Llama3.2-11B-Visual-Instruct** en configuración de 16 bits se resumen en la siguiente tabla:
+
+![Desempeño del Modelo Llama3.2-11B-Visual-Instruct 16 bit](llama3_2_performance.png)
+
+El modelo demostró un desempeño excelente en las tareas de extracción de metadatos y redacción de síntesis, alcanzando un 100% de buen formato y cohesión/coherencia. En la tarea de generación de sumarios, también obtuvo un desempeño destacado con un 96% de buen formato y cohesión/coherencia, aunque un 4% presentó problemas menores de formato y cohesión. El tiempo total de procesamiento fue de 31 minutos.
+
 
 ## Planificación y Ejecución
 - **Planificación Inicial:** Explica cómo se estructuró el proyecto inicialmente (etapas, metas temporales).

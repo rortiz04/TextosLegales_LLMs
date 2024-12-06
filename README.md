@@ -13,11 +13,11 @@ La **hipótesis** sobre la que trabajamos desde el principio fue que podríamos 
 
 ## Resultados Finales
 
-Los resultados obtenidos con el modelo **Llama3.2-11B-Visual-Instruct** en configuración de 16 bits se resumen en la siguiente tabla:
+Los resultados obtenidos con el modelo **Llama3.2-11B-Visual-Instruct** en configuración de 16 bits se resumen en las columnas **Metadatos** y **Síntesis** de la siguiente tabla:
 
 ![Desempeño del Modelo Llama3.2-11B-Visual-Instruct 16 bit](llama3_2_performance.png)
 
-El modelo demostró un desempeño excelente en las tareas de extracción de metadatos y redacción de síntesis, alcanzando un 100% de buen formato y cohesión/coherencia. En la tarea de generación de sumarios, también obtuvo un desempeño destacado con un 96% de buen formato y cohesión/coherencia, aunque un 4% presentó problemas menores de formato y cohesión. El tiempo total de procesamiento fue de 31 minutos.
+El modelo demostró un desempeño excelente en las tareas de extracción de metadatos y redacción de síntesis, alcanzando un 100% de buen formato y cohesión/coherencia. En la tarea de generación de sumarios, también obtuvo un desempeño destacado con un 96% de buen formato y cohesión/coherencia, aunque un 4% presentó problemas menores de formato y cohesión, sin embargo, estos resultados de generación de sumarios fue obtenida por fuera del trabajo realizado para la materia Mineria de Datos para el procesamiento de Texto. El tiempo total de procesamiento fue de 31 minutos.
 
 
 ## Planificación y Ejecución

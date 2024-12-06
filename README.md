@@ -50,11 +50,6 @@ Este enfoque iterativo y basado en decisiones estratégicas fue clave para logra
 - **[Torch](https://pytorch.org/)**: Framework para machine learning.
 - **[Modelo Llama-3.2-11B-Vision-Instruct](https://github.com/facebookresearch/llama)**: Modelo preentrenado especializado.
 
-
-## Relación con Trabajo Previo
-- **Bibliografía:** Menciona artículos, papers o trabajos que influyeron en el proyecto.
-- **Comparación:** Explica cómo tu trabajo se relaciona y se diferencia de lo existente.
-
 ## Feedback e Integración de Sugerencias
 - **Comentarios Recibidos:** Resume las devoluciones de los otros dos grupos.
 - **Implementación de Sugerencias:** Explica qué sugerencias se integraron y cuáles no, justificando estas decisiones.

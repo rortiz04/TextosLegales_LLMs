@@ -76,8 +76,22 @@ Mientras tanto, los resultados actuales, presentados en la sección **"Resultado
 
 
 ## Conclusiones y Trabajo Futuro
-- Discute los aprendizajes clave del proyecto.
-- Propón posibles mejoras o extensiones para futuros trabajos.
+
+Este proyecto demostró la viabilidad de utilizar modelos de lenguaje grande (LLMs) para automatizar parcialmente la creación de sumarios de jurisprudencia, abordando tareas como la extracción de metadatos y la redacción de síntesis. Al aplicar técnicas de **Prompt Engineering** y estrategias como **Few-Shot Prompting** y cuantización, logramos resultados prometedores sin necesidad de realizar costosos ajustes de fine-tuning.
+
+### Principales Contribuciones:
+- Validación de técnicas como **Few-Shot Prompting**, obteniendo resultados consistentes en tareas complejas.
+- Uso de la cuantización para manejar modelos grandes en hardware limitado, manteniendo una alta calidad de generación.
+- Identificación del modelo **Llama3.2-11B-Visual-Instruct** como un balance óptimo entre calidad y tiempos de inferencia.
+
+Sin embargo, también se identificaron desafíos, como problemas ocasionales de "alucinación" en textos complejos y limitaciones de contexto en documentos extensos. Estas áreas destacan la importancia de optimizar tanto los modelos como los prompts para dominios específicos.
+
+### Trabajo Futuro:
+- **Análisis del Feedback de abogados:** Incorporar las sugerencias de expertos para mejorar los resultados.
+- **Integración en flujos de trabajo reales:** Implementar un piloto en el Boletín Judicial para evaluar su impacto práctico.
+- **Ampliación del conjunto de datos:** Incluir nuevos fueros y jurisdicciones para probar la generalización del sistema.
+- **Mejora de evaluaciones:** Desarrollar métricas automáticas y subjetivas para medir la calidad y utilidad de los resúmenes.
+- **Exploración de modelos multimodales:** Investigar modelos que combinen texto e imágenes para procesar documentos legales escaneados.
 
 ## Requisitos del Proyecto
 Lista dependencias necesarias para ejecutar el proyecto.

@@ -105,6 +105,7 @@ Asegúrate de contar con los siguientes requisitos antes de ejecutar el proyecto
 Instala las siguientes bibliotecas mediante `pip`:
 ```bash
 pip install transformers torch tqdm
+```
 
 ## Uso
 Instrucciones paso a paso para replicar o ejecutar el proyecto.

@@ -43,9 +43,13 @@ Tras un análisis exhaustivo de los pros y contras de varios modelos, se decidi�
 Este enfoque iterativo y basado en decisiones estratégicas fue clave para lograr un balance entre desempeño, flexibilidad y recursos computacionales disponibles.
 
 
-## Exploración de Librerías y Codebases
-- **Librerías Exploradas:** Lista las principales herramientas y librerías evaluadas.
-- **Elección Final:** Justifica las elecciones finales con base en rendimiento, facilidad de uso u otros criterios relevantes.
+## Librerías y Codebases
+- **[Transformers](https://huggingface.co/docs/transformers/)**: Biblioteca para trabajar con modelos de lenguaje preentrenados.
+- **[Python](https://www.python.org/)**: Lenguaje de programación principal.
+- **[CUDA](https://developer.nvidia.com/cuda-toolkit)**: Para la aceleración en GPU.
+- **[Torch](https://pytorch.org/)**: Framework para machine learning.
+- **[Modelo Llama-3.2-11B-Vision-Instruct](https://github.com/facebookresearch/llama)**: Modelo preentrenado especializado.
+
 
 ## Relación con Trabajo Previo
 - **Bibliografía:** Menciona artículos, papers o trabajos que influyeron en el proyecto.

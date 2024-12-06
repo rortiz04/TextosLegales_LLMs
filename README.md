@@ -60,9 +60,13 @@ Este enfoque iterativo y basado en decisiones estratégicas fue clave para logra
 
 
 ## Metodología
-- **Preprocesamiento:** Detalla cómo se procesaron los datos de entrada.
-- **Arquitectura del Modelo:** Describe brevemente el modelo LLM utilizado y los ajustes realizados.
-- **Entrenamiento/Inferencia:** Explica cómo se configuraron y ejecutaron estos procesos.
+
+- **Preprocesamiento:**  
+  Los textos judiciales originales fueron transformados a formato de texto plano para que pudieran ser procesados eficientemente por un modelo de lenguaje grande (LLM). Este paso incluyó la limpieza de datos, eliminación de formatos no compatibles y adaptación del contenido a una estructura adecuada para el modelo.
+
+- **Entrenamiento/Inferencia:**  
+  Para obtener resultados de alta calidad, se implementaron técnicas avanzadas como **Chain of Thought (CoT)** y **Few-Shot Encoding**. Cada sección del resumen fue abordada con prompts específicos, diseñados cuidadosamente para incluir ejemplos relevantes y específicos al contexto de esa parte del texto. Esto permitió al modelo comprender mejor la tarea y generar resúmenes más precisos y adaptados al ámbito jurídico.
+
 
 ## Resultados
 - **Métricas:** Presenta las métricas de evaluación utilizadas y los valores obtenidos.

@@ -1,67 +1,53 @@
-# Proyecto: Extracción de Metadatos y Generación de Síntesis
+# Resumen Automático de Fallos Judiciales con LLMs
 
-Este repositorio contiene el código y las instrucciones necesarias para realizar tareas de **extracción de metadatos** y **generación de síntesis** a partir de textos legales utilizando el modelo **Llama-3.2-11B-Vision-Instruct**.
+## Introducción
+En el Boletín Judicial de los Tribunales Provinciales de Córdoba, un equipo liderado por la Dra. Valeria Sola trabaja en la extracción de metadatos, redacción de síntesis y elaboración de sumarios de fallos judiciales. Estas tareas se realizan manualmente sobre textos denominados [Fallos](https://drive.google.com/file/d/1M7qSGdbUqznr94c2qDan3uIS5SkR5TiE/view?usp=sharing), generando como resultado documentos denominados [Sumarios](https://drive.google.com/file/d/1yk6CjVThjc6iFP7Dw3XlPv6srfCkQhDi/view?usp=sharing). El objetivo es ofrecer documentos estandarizados que resumen causas legales en los fueros Civil y Penal, siguiendo las [Normas de estilo para la redacción de sumarios de jurisprudencia](https://drive.google.com/file/d/18NEBdtVR5UuGBziGEfFb1CA8ePUUsOnd/view?usp=sharing).
 
-## Descripción del Proyecto
+Este proceso manual es altamente demandante y consume tiempo que los abogados podrían dedicar a tareas más interpretativas. Este proyecto propone una herramienta automática que genere textos preliminares, permitiendo a los abogados centrarse en la validación, profundización y edición de los documentos generados, optimizando su esfuerzo y asegurando el cumplimiento de los estándares establecidos.
 
-El objetivo de este proyecto es automatizar dos tareas clave en el tratamiento de textos jurídicos:
+## Hipótesis y Objetivos Iniciales
+- **Hipótesis:** Especifica la hipótesis formulada antes de iniciar el trabajo.
+- **Objetivos Iniciales:** Define los objetivos específicos del proyecto y cómo se relacionan con la hipótesis planteada.
 
-1. **Extracción de Metadatos**: Identificar y extraer información relevante como la sede, el juez, la fecha y la resolución de los textos legales.
-2. **Generación de Síntesis**: Crear resúmenes concisos y coherentes de textos legales.
+## Resultados Finales
+- Breve resumen de los resultados obtenidos.
+- Relación entre la hipótesis y los objetivos iniciales con el estado final alcanzado. ¿Se cumplió lo esperado?
 
-Estas tareas son parte de un enfoque de procesamiento de lenguaje natural aplicado al ámbito jurídico, con el objetivo de optimizar procesos manuales y reducir la carga de trabajo.
+## Planificación y Ejecución
+- **Planificación Inicial:** Explica cómo se estructuró el proyecto inicialmente (etapas, metas temporales).
+- **Ejecución Real:** Compara lo planeado con lo efectivamente realizado, señalando desvíos o ajustes y sus razones.
 
-## Tecnologías Utilizadas
+## Exploración de Librerías y Codebases
+- **Librerías Exploradas:** Lista las principales herramientas y librerías evaluadas.
+- **Elección Final:** Justifica las elecciones finales con base en rendimiento, facilidad de uso u otros criterios relevantes.
 
-- **[Transformers](https://huggingface.co/docs/transformers/)**: Biblioteca para trabajar con modelos de lenguaje preentrenados.
-- **Python**: Lenguaje de programación principal.
-- **CUDA**: Para la aceleración en GPU.
-- **Torch**: Framework para machine learning.
-- **Modelo Llama-3.2-11B-Vision-Instruct**: Modelo preentrenado especializado.
+## Relación con Trabajo Previo
+- **Bibliografía:** Menciona artículos, papers o trabajos que influyeron en el proyecto.
+- **Comparación:** Explica cómo tu trabajo se relaciona y se diferencia de lo existente.
 
-## Requisitos
+## Feedback e Integración de Sugerencias
+- **Comentarios Recibidos:** Resume las devoluciones de los otros dos grupos.
+- **Implementación de Sugerencias:** Explica qué sugerencias se integraron y cuáles no, justificando estas decisiones.
 
-Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
-
-- Python 3.8 o superior
-- CUDA 11.7 o superior (para la aceleración en GPU)
-- Bibliotecas requeridas:
-  ```bash
-  pip install transformers torch tqdm
-
-## Configuración y Ejecución
-
-# 1. Clonar el repositorio
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
-
-# 2. Configurar el modelo
-# El código utiliza el modelo preentrenado meta-llama/Llama-3.2-11B-Vision-Instruct.
-# Asegúrate de tener acceso al modelo desde Hugging Face:
-# https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct
-
-# 3. Preparar los datos
-# Asegúrate de que los textos legales estén en formato .txt y colócalos en la carpeta data/input.
-
-# 4. Ejecutar el script principal
-python main.py
-
-# 5. Personalizar configuraciones (opcional)
-# Los parámetros configurables incluyen:
-# - max_new_tokens: Número máximo de tokens generados.
-# - temperature: Controla la diversidad de la generación.
-# - min_new_tokens: Número mínimo de tokens generados.
+## Metodología
+- **Preprocesamiento:** Detalla cómo se procesaron los datos de entrada.
+- **Arquitectura del Modelo:** Describe brevemente el modelo LLM utilizado y los ajustes realizados.
+- **Entrenamiento/Inferencia:** Explica cómo se configuraron y ejecutaron estos procesos.
 
 ## Resultados
-## Los resultados se guardan en formato JSONL y contienen:
+- **Métricas:** Presenta las métricas de evaluación utilizadas y los valores obtenidos.
+- **Visualizaciones:** Incluye gráficos o tablas relevantes que respalden los resultados.
 
-##Metadatos extraídos.
-##Síntesis generada.
-##Tiempo de procesamiento por tarea.
-##Ejemplo de salida:
+## Conclusiones y Trabajo Futuro
+- Discute los aprendizajes clave del proyecto.
+- Propón posibles mejoras o extensiones para futuros trabajos.
 
-{
-  "decoded_metadata": "Sede: Córdoba, Dependencia: Civil...",
-  "decoded_sintesis": "En este fallo se analizan...",
-  "total_time": 12.34
-}
+## Requisitos del Proyecto
+Lista dependencias necesarias para ejecutar el proyecto.
+
+## Uso
+Instrucciones paso a paso para replicar o ejecutar el proyecto.
+
+## Referencias
+Incluye todas las citas y referencias bibliográficas usadas.
+

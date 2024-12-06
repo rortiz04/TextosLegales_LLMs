@@ -69,8 +69,11 @@ Este enfoque iterativo y basado en decisiones estratégicas fue clave para logra
 
 
 ## Resultados
-- **Métricas:** Presenta las métricas de evaluación utilizadas y los valores obtenidos.
-- **Visualizaciones:** Incluye gráficos o tablas relevantes que respalden los resultados.
+
+Estamos a la espera del feedback de los abogados sobre los resúmenes generados, como se detalla en la sección **"Feedback e Integración de Sugerencias"**. Consideramos que esta evaluación experta es la métrica más relevante y confiable para valorar la calidad de nuestro trabajo, ya que proviene de profesionales del ámbito judicial.
+
+Mientras tanto, los resultados actuales, presentados en la sección **"Resultados Finales"**, indican un desempeño prometedor. Estos resultados reflejan la capacidad del modelo para generar resúmenes coherentes y adaptados al contexto judicial, pero su validez definitiva dependerá del análisis y las recomendaciones de los expertos.
+
 
 ## Conclusiones y Trabajo Futuro
 - Discute los aprendizajes clave del proyecto.

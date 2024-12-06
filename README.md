@@ -94,7 +94,17 @@ Sin embargo, también se identificaron desafíos, como problemas ocasionales de 
 - **Exploración de modelos multimodales:** Investigar modelos que combinen texto e imágenes para procesar documentos legales escaneados.
 
 ## Requisitos del Proyecto
-Lista dependencias necesarias para ejecutar el proyecto.
+
+Asegúrate de contar con los siguientes requisitos antes de ejecutar el proyecto:
+
+### Herramientas Necesarias
+- **Python 3.8 o superior**: Lenguaje de programación principal.
+- **CUDA 11.7 o superior**: Para aprovechar la aceleración en GPU (opcional si no se utiliza GPU).
+
+### Dependencias
+Instala las siguientes bibliotecas mediante `pip`:
+```bash
+pip install transformers torch tqdm
 
 ## Uso
 Instrucciones paso a paso para replicar o ejecutar el proyecto.

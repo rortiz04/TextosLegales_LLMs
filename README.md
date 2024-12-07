@@ -138,5 +138,13 @@ Los parámetros configurables incluyen:
 - **min_new_tokens**: Número mínimo de tokens generados.
 
 ## Referencias
-Incluye todas las citas y referencias bibliográficas usadas.
+
+A continuación, se enumeran las principales fuentes y referencias bibliográficas utilizadas en este proyecto:
+
+1. [Documentación de Transformers - Hugging Face](https://huggingface.co/docs/transformers/en/index): Recurso oficial para comprender el uso y funcionalidades de la biblioteca Transformers.
+2. [Modelos LLaMA - Meta](https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf): Colección oficial de modelos LLaMA en Hugging Face.
+3. [Quantization en LLM - Tech Research Space](https://medium.com/@techresearchspace/what-is-quantization-in-llm-01ba61968a51): Explicación detallada sobre la cuantización y su impacto en modelos de lenguaje.
+4. [Chain of Thought Prompting - Deepgram](https://deepgram.com/learn/chain-of-thought-prompting-guide): Guía sobre la técnica de Chain of Thought Prompting para mejorar la precisión de LLMs.
+5. [Few-shot Prompting - Learn Prompting](https://learnprompting.org/docs/basics/few_shot?srsltid=AfmBOopY1hz1ELtbvzCDem35nexC4X8LwZImQlWRuWQ2f1k8YcqNk3u_): Introducción al uso de Few-shot Prompting para personalizar respuestas de modelos de lenguaje.
+
 
